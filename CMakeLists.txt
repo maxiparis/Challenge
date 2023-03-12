@@ -3,4 +3,4 @@ project(Programming_Challenge)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Programming_Challenge main.cpp Game.h Word.h Hangman.h)
+add_executable(Programming_Challenge main.cpp Game.h Hangman.h)
